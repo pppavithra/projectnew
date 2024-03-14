@@ -1,0 +1,96 @@
+Java-8 to 17
+Method references
+Optional Class
+Data & Time API
+Private methods in interface
+Collectors API & Immutable Collections
+Var keyword
+File APIs
+Switch expressions
+Text blocks
+Records
+
+
+
+Java-8 ->LOng term support
+and now-
+Java-17-Long term support
+
+Java->developing-
+2twice-
+3 year->
+
+Method Reference:->
+It is way refer to methods  or constructor without invoking/calling them.
+we use method reference as shorthamd for lambda expression
+::methodname()
+1.Reference to static method
+2.Reference to instance method of particular object.
+3.Reference to instance method any type  object
+4.Reference to constructor
+
+Spring=>Java-17
+->Optional class in java->java-8
+It is designed to manage null references or absent object in memory.
+
+NullPointer Exception->A  billion-dollar mistake to null reference.
+NullReferences 
+To over come problem of NullPointer Exception:
+Optional class in java
+isPresent()
+get()->return value
+orElse()
+map
+filter
+	get()
+
+
+Java Date and Time API->8 java
+import java.time.*->importing all classes in package java.time
+import java.time.classname;->import one package at tim.
+Java-17 spring applcation.
+
+
+
+
+Private methods in interface:Java-9
+Default method inside interface
+Before java-8 every method , public and abstract ->
+provide declaration to method but no implementation.
+
+
+100 of classes in your which require to provide  implementation to this interface.
+
+
+Default method->Defender method
+
+Private method interface:
+1.code reusability
+2.expose implemented to class which are required.
+
+
+private static method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
